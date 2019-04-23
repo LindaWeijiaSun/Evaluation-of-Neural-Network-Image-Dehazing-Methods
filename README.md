@@ -1,5 +1,5 @@
 # Evaluation-of-Neural-Network-Image-Dehazing-Methods
-This is the final year project of Weijia Sun.
+**This is the final year project of Weijia Sun.**
 
 **result_selfmade:**
 This file contains the results using the self-made testing dataset under the epoch 30. 
